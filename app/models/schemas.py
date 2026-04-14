@@ -13,3 +13,4 @@ class ResearchPlanResponse(BaseModel):
     report_outline: List[str]
     keywords: List[str]
     next_step: str
+    suggested_sources: List[str]

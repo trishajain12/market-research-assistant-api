@@ -19,6 +19,12 @@ def generate_research_plan(topic: str):
             "Market Implications"
         ]
         next_step = "Next, retrieve sources for both sides of the comparison."
+        suggested_sources = [
+            "Official product pages",
+            "Pricing pages",
+            "Technical documentation",
+            "Comparison articles"
+        ]
 
     elif research_type == "market":
         subquestions = [
@@ -36,6 +42,12 @@ def generate_research_plan(topic: str):
             "Risks and Opportunities"
         ]
         next_step = "Next, retrieve market trend and competitor sources."
+        suggested_sources = [
+            "Market reports",
+            "Industry news",
+            "Analyst blogs",
+            "Company websites"
+        ]
 
     elif research_type == "company":
         subquestions = [
@@ -53,6 +65,12 @@ def generate_research_plan(topic: str):
             "Risks and Opportunities"
         ]
         next_step = "Next, retrieve company, competitor, and industry sources."
+        suggested_sources = [
+            "Official company website",
+            "Competitor websites",
+            "Investor/news pages",
+            "Industry news"
+        ]
 
     else:
         subquestions = [
@@ -70,6 +88,12 @@ def generate_research_plan(topic: str):
             "Further Questions"
         ]
         next_step = "Next, retrieve general background and trend sources."
+        suggested_sources = [
+            "Background articles",
+            "Industry blogs",
+            "Reference pages",
+            "News articles"
+        ]
 
     return {
         "topic": cleaned_topic,
@@ -77,7 +101,8 @@ def generate_research_plan(topic: str):
         "subquestions": subquestions,
         "report_outline": report_outline,
         "keywords": keywords,
-        "next_step": next_step
+        "next_step": next_step,
+        "suggested_sources": suggested_sources
     }
 
 
