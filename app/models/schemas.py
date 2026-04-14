@@ -8,6 +8,8 @@ class ResearchRequest(BaseModel):
 
 class ResearchPlanResponse(BaseModel):
     topic: str
+    research_type: str
     subquestions: List[str]
     report_outline: List[str]
     keywords: List[str]
+    next_step: str
