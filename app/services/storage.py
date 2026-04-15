@@ -45,3 +45,18 @@ def get_report_by_id(report_id):
             return report
 
     return None
+
+def delete_report_by_id(report_id):
+    reports = load_reports()
+
+    updated_reports = [report for report in reports if report["report_id"] != report_id]
+
+    if len(updated_reports) == len(reports):
+        return False
+
+    save_reports(updated_reports)
+    return True
+
+
+def delete_all_reports():
+    save_reports([])

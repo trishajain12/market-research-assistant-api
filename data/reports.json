@@ -1,109 +1,5 @@
 [
   {
-    "topic": "IBM AI strategy",
-    "research_type": "company",
-    "subquestions": [
-      "What are the main products and services related to IBM AI strategy?",
-      "Who are the key competitors related to IBM AI strategy?",
-      "What industries or customer groups are targeted by IBM AI strategy?",
-      "What differentiates IBM AI strategy from competitors?",
-      "What risks and growth opportunities affect IBM AI strategy?"
-    ],
-    "report_outline": [
-      "Company Overview",
-      "Products and Services",
-      "Competitive Landscape",
-      "Target Customers",
-      "Risks and Opportunities"
-    ],
-    "keywords": [
-      "IBM",
-      "strategy",
-      "IBM AI strategy",
-      "IBM AI strategy products",
-      "IBM AI strategy competitors",
-      "IBM AI strategy strategy"
-    ],
-    "next_step": "Next, review company, competitor, and industry sources.",
-    "suggested_sources": [
-      "Official company website",
-      "Competitor websites",
-      "Investor/news pages",
-      "Industry news"
-    ],
-    "starter_sources": [
-      {
-        "label": "Official company website",
-        "url": "https://www.ibm.com"
-      },
-      {
-        "label": "Company news search",
-        "url": "https://www.google.com/search?q=IBM+AI+strategy+news"
-      },
-      {
-        "label": "Competitor search",
-        "url": "https://www.google.com/search?q=IBM+AI+strategy+competitors"
-      },
-      {
-        "label": "Industry analysis search",
-        "url": "https://www.google.com/search?q=IBM+AI+strategy+industry+analysis"
-      }
-    ],
-    "report_id": "4f067f74-5468-460c-8f3c-76fa69f4cfb9"
-  },
-  {
-    "topic": "IBM AI strategy",
-    "research_type": "company",
-    "subquestions": [
-      "What are the main products and services related to IBM AI strategy?",
-      "Who are the key competitors related to IBM AI strategy?",
-      "What industries or customer groups are targeted by IBM AI strategy?",
-      "What differentiates IBM AI strategy from competitors?",
-      "What risks and growth opportunities affect IBM AI strategy?"
-    ],
-    "report_outline": [
-      "Company Overview",
-      "Products and Services",
-      "Competitive Landscape",
-      "Target Customers",
-      "Risks and Opportunities"
-    ],
-    "keywords": [
-      "IBM",
-      "strategy",
-      "IBM AI strategy",
-      "IBM AI strategy products",
-      "IBM AI strategy competitors",
-      "IBM AI strategy strategy"
-    ],
-    "next_step": "Next, review company, competitor, and industry sources.",
-    "suggested_sources": [
-      "Official company website",
-      "Competitor websites",
-      "Investor/news pages",
-      "Industry news"
-    ],
-    "starter_sources": [
-      {
-        "label": "Official company website",
-        "url": "https://www.ibm.com"
-      },
-      {
-        "label": "Company news search",
-        "url": "https://www.google.com/search?q=IBM+AI+strategy+news"
-      },
-      {
-        "label": "Competitor search",
-        "url": "https://www.google.com/search?q=IBM+AI+strategy+competitors"
-      },
-      {
-        "label": "Industry analysis search",
-        "url": "https://www.google.com/search?q=IBM+AI+strategy+industry+analysis"
-      }
-    ],
-    "report_id": "49f57533-74f7-4c4c-bd17-a7e27aba295e"
-  },
-  {
     "topic": "IBM AI Strategy",
     "research_type": "company",
     "subquestions": [
@@ -153,7 +49,7 @@
         "url": "https://www.google.com/search?q=IBM+AI+Strategy+industry+analysis"
       }
     ],
-    "report_id": "3ae3c070-d700-4138-a2b3-da65a3b1ec59"
+    "report_id": "90f35b0a-1419-4e01-beef-a2a3a7bfb276"
   },
   {
     "topic": "AWS vs Azure",
@@ -205,110 +101,59 @@
         "url": "https://www.google.com/search?q=AWS+vs+Azure+documentation"
       }
     ],
-    "report_id": "f35b3c71-d104-4907-a817-a895901d0b9d"
+    "report_id": "555e9a31-de42-42ae-a559-f6ab75a5c820"
   },
   {
-    "topic": "AWS vs Azure",
-    "research_type": "comparison",
+    "topic": "NVDIA Market Strategy",
+    "research_type": "market",
     "subquestions": [
-      "What are the core offerings of each side in AWS vs Azure?",
-      "What are the main differences in pricing, features, or positioning in AWS vs Azure?",
-      "What types of customers are best served by each option in AWS vs Azure?",
-      "What are the strengths and weaknesses of each side in AWS vs Azure?",
-      "What trends or market forces affect the comparison in AWS vs Azure?"
+      "What are the major trends shaping the NVDIA Market Strategy?",
+      "Who are the leading players in the NVDIA Market Strategy?",
+      "What customer needs are driving growth in the NVDIA Market Strategy?",
+      "What risks or barriers exist in the NVDIA Market Strategy?",
+      "What opportunities are emerging in the NVDIA Market Strategy?"
     ],
     "report_outline": [
-      "Comparison Overview",
-      "Core Offerings",
-      "Target Customers",
-      "Strengths and Weaknesses",
-      "Market Implications"
+      "Market Overview",
+      "Key Trends",
+      "Leading Players",
+      "Customer Demand",
+      "Risks and Opportunities"
     ],
     "keywords": [
-      "AWS",
-      "Azure",
-      "AWS vs Azure",
-      "AWS vs Azure features",
-      "AWS vs Azure pricing",
-      "AWS vs Azure differences"
+      "NVDIA",
+      "Market",
+      "Strategy",
+      "NVDIA Market Strategy",
+      "NVDIA Market Strategy trends",
+      "NVDIA Market Strategy growth",
+      "NVDIA Market Strategy leading companies"
     ],
-    "next_step": "Next, review both sides using product, pricing, and documentation sources.",
+    "next_step": "Next, review trend, competitor, and market report sources.",
     "suggested_sources": [
-      "Official product pages",
-      "Pricing pages",
-      "Technical documentation",
-      "Comparison articles"
+      "Market reports",
+      "Industry news",
+      "Analyst blogs",
+      "Company websites"
     ],
     "starter_sources": [
       {
-        "label": "Comparison search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+comparison"
+        "label": "Market trends search",
+        "url": "https://www.google.com/search?q=NVDIA+Market+Strategy+market+trends"
       },
       {
-        "label": "Pricing comparison search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+pricing"
+        "label": "Leading companies search",
+        "url": "https://www.google.com/search?q=NVDIA+Market+Strategy+leading+companies"
       },
       {
-        "label": "Feature comparison search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+features"
+        "label": "Industry reports search",
+        "url": "https://www.google.com/search?q=NVDIA+Market+Strategy+industry+report"
       },
       {
-        "label": "Documentation search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+documentation"
+        "label": "Customer demand search",
+        "url": "https://www.google.com/search?q=NVDIA+Market+Strategy+customer+demand"
       }
     ],
-    "report_id": "791e8f8c-7155-440b-bac8-8f36426ea89d"
-  },
-  {
-    "topic": "AWS vs Azure",
-    "research_type": "comparison",
-    "subquestions": [
-      "What are the core offerings of each side in AWS vs Azure?",
-      "What are the main differences in pricing, features, or positioning in AWS vs Azure?",
-      "What types of customers are best served by each option in AWS vs Azure?",
-      "What are the strengths and weaknesses of each side in AWS vs Azure?",
-      "What trends or market forces affect the comparison in AWS vs Azure?"
-    ],
-    "report_outline": [
-      "Comparison Overview",
-      "Core Offerings",
-      "Target Customers",
-      "Strengths and Weaknesses",
-      "Market Implications"
-    ],
-    "keywords": [
-      "AWS",
-      "Azure",
-      "AWS vs Azure",
-      "AWS vs Azure features",
-      "AWS vs Azure pricing",
-      "AWS vs Azure differences"
-    ],
-    "next_step": "Next, review both sides using product, pricing, and documentation sources.",
-    "suggested_sources": [
-      "Official product pages",
-      "Pricing pages",
-      "Technical documentation",
-      "Comparison articles"
-    ],
-    "starter_sources": [
-      {
-        "label": "Comparison search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+comparison"
-      },
-      {
-        "label": "Pricing comparison search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+pricing"
-      },
-      {
-        "label": "Feature comparison search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+features"
-      },
-      {
-        "label": "Documentation search",
-        "url": "https://www.google.com/search?q=AWS+vs+Azure+documentation"
-      }
-    ],
-    "report_id": "0caa2556-7b57-498f-bbbf-254eaa5e1e9b"
+    "report_id": "86e4b6ba-b459-46ac-b3c0-26f86b99e7aa"
   }
 ]
